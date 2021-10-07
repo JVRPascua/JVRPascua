@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JVRPascua
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on anything software development
+- 💞️ My target is to be a good software engineer someday
 - 📫 How to reach me pascuavincentjohn@gmail.com
 
 <!---
